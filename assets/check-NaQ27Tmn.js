@@ -1,1 +1,0 @@
-import{o as e}from"./card-C4k2wH0c.js";var t=e(`Check`,[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]);export{t};
